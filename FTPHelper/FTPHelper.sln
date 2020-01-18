@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPHelper", "FTPHelper\FTPHelper.csproj", "{DADB882A-11DE-4390-A09A-53D045A5C00A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADB882A-11DE-4390-A09A-53D045A5C00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADB882A-11DE-4390-A09A-53D045A5C00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADB882A-11DE-4390-A09A-53D045A5C00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADB882A-11DE-4390-A09A-53D045A5C00A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DED5B6C-8D4F-43AA-A4C8-9F82247A7109}
+	EndGlobalSection
+EndGlobal
